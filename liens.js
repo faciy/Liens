@@ -6,4 +6,6 @@
 
 `TROISIEME LIEN` = `https://morioh.com/p/3082a32273d7`
 
+`CINQUIEME LIEN` = `https://codedaily.io/courses/Master-React-Native-Animations/Rotation`
+
 // >>>>
