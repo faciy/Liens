@@ -10,6 +10,8 @@
 
 `6 LIEN` = `https://githubhelp.com/homeeondemand/react-native-mapbox-navigation`
 
+`7 LIEN` = `https://stackoverflow.com/questions/72755476/invariant-violation-viewproptypes-has-been-removed-from-react-native-migrate-t`
+
 
 
 // >>>>
